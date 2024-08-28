@@ -17,7 +17,7 @@ Este projeto é uma aplicação web desenvolvida em Next.js para gerenciamento d
 
 ## Web API
 
-A Web API em C# pode ser acessada através do seguinte link: https://github.com/GabrielFernandesO/WebAPI_Funcionarios(#)
+A Web API em C# pode ser acessada através do seguinte link: https://github.com/GabrielFernandesO/WebAPI_Funcionarios
 
 ## Configuração do Projeto
 
